@@ -10,7 +10,7 @@
 - https://api.semanticscholar.org/corpus
 
 # functions
-- search paper (finished but the result in uncompleted)
+- search paper (finished but the result is uncompleted)
 - get details about a paper
 - get details about authors
 - get details about paper citations
