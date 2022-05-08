@@ -9,7 +9,7 @@
 - https://www.semanticscholar.org/product/api
 - https://api.semanticscholar.org/corpus
 
-# daataset download
+# dataset download
 - Semantic Scholar Academic Graph (S2AG) provides monthly snapshots of research papers published in all fields as an easy-to-use JSON archive. You can download paper archive version per month in [here](https://api.semanticscholar.org/corpus/download/)
 
 # functions
