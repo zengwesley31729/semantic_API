@@ -1,5 +1,6 @@
 # Semantic scholar API
 - Introduction about [semantic scholar engine](https://blog.allenai.org/building-a-better-search-engine-for-semantic-scholar-ea23a0b661e7)
+- semantic search engine [code](https://github.com/allenai/s2search)
 - S2ORC: The Semantic Scholar Open Research Corpus [github](https://github.com/allenai/s2orc)
 - For more methods about [literature mapping](https://aarontay.medium.com/3-new-tools-to-try-for-literature-mapping-connected-papers-inciteful-and-litmaps-a399f27622a)
 
