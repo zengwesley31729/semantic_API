@@ -21,7 +21,7 @@
 - Get details about paper refernnces
 - (...still working on)
 
-# Explation
+# Explanation
 -[SHAP](https://github.com/slundberg/shap) (SHapley Additive exPlanations) is a game theoretic approach to explain the output of any machine learning model. It connects optimal credit allocation with local explanations using the classic Shapley values from game theory and their related extensions (see papers for details and citations).
 
 
